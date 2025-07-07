@@ -1,3 +1,5 @@
+Below is a professional README file for your Stroke Prediction project formatted in Markdown, incorporating the provided details and reflecting the current date and time (04:16 PM EEST on Monday, July 07, 2025).
+
 Stroke Prediction Project
 Overview
 This project aims to develop a machine learning model to predict the likelihood of a stroke based on various health and demographic factors. The primary focus is on optimizing the recall metric to minimize false negatives, ensuring that individuals at high risk of stroke are not incorrectly classified as low-risk. The solution leverages a Light Gradient Boosting Machine (LightGBM) classifier, achieving a recall of 0.964 on test data.
@@ -73,3 +75,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For questions or feedback, please open an issue in the repository or contact the project maintainer.
+
+Last Updated
