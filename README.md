@@ -1,4 +1,4 @@
-![lgbm_model_shap_evaluation](https://github.com/user-attachments/assets/6574fb8e-c81a-4289-85c9-2834e681e438)
+
 
 # Stroke Prediction Project
 ## Overview
@@ -41,7 +41,12 @@ The LightGBM model effectively predicts stroke risk, with the following key find
 
 Recall: 0.964 on test data, ensuring high sensitivity to stroke cases.
 Important Features: Age, BMI, average glucose levels, work type, and smoking status are the most influential predictors.
-![Uploading ![lgbm_tree](https://github.com/user-attachments/assets/70a6933f-bdd9-4ea0-90b5-023122a9ce01)lgbm_model_shap_evaluation.png…]()
+
+![lgbm_model_shap_evaluation](https://github.com/user-attachments/assets/070567ed-c6ca-44ee-9ed6-58d1bd378c8c)
+
+
+
+
 ![lgbm_tree](https://github.com/user-attachments/assets/94a1104c-051b-4a5b-abf3-af44b48ade07)
 
 ## Potential Improvements
